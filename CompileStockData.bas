@@ -14,7 +14,7 @@ Dim bestPercent As Double
 Dim bestPercentTicker As String
 Dim worstPercent As Double
 Dim worstPercentTicker As String
-Dim bestTotalStock As LongLong ' **LongLong? who woulda thunk: https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/longlong-data-type
+Dim bestTotalStock As LongLong
 Dim bestTotalStockTicker As String
 
 ' Loop all worksheets
